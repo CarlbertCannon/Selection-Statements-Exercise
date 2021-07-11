@@ -1,0 +1,13 @@
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csprojAssemblyReference.cache
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfoInputs.cache
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfo.cs
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.exe
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.deps.json
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.runtimeconfig.json
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.runtimeconfig.dev.json
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.dll
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\netcoreapp3.1\SelectionStatementsExercise.pdb
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.dll
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.pdb
+C:\Users\FrankDaTank\source\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.genruntimeconfig.cache
